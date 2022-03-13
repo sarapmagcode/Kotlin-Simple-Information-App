@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WelcomeAndroid</string>
+    <string name="my_msg">Good day guys!</string>
+    <string name="group_msg">Hi! we are The Disciples of H and we will code for rest of our lives.</string>
+    <string name="prog_lang">Our favorite programming language is Kotlin!</string>
+    <string name="fav_hobby">Mobile programming is our favorite hobby everyday :)</string>
+    <string name="end_msg">Thank you for using this app!</string>
+</resources>
